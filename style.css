@@ -4,9 +4,9 @@
 }
 
 body {
-  color: #2b2c48;
+  color: #090003;
   font-family: "Jost", sans-serif;
-  background-image: url(https://th.bing.com/th/id/R.653da99c832edf3f372b08d22b10ea88?rik=GqKuUJjHmcJFFg&pid=ImgRaw&r=0);
+  background-image: url(https://cdn.dribbble.com/userupload/4056627/file/original-78e013ca7485ce3769d97561acc9ff1e.png?compress=1&resize=1200x900);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -155,10 +155,13 @@ body {
   font-weight: 700;
   font-size: 13px;
   margin-bottom: 8px;
+  text-align: center;
+  color: rgb(0, 255, 179);
 }
 
 .card-content {
   padding: 20px;
+  background-image: url(https://cdn.dribbble.com/userupload/4056627/file/original-78e013ca7485ce3769d97561acc9ff1e.png?compress=1&resize=1200x900);
 }
 
 .card-desc {
@@ -320,7 +323,7 @@ body {
 
 .card-item-desc {
   font-size: 13px;
-  color: #6f6f7b;
+  color: #00ff80;
   line-height: 1.5;
   font-family: "DM Sans", sans-serif;
 }
@@ -333,7 +336,7 @@ body {
   display: flex;
   align-items: center;
   font-size: 13px;
-  color: #6f6f7b;
+  color: #00ff80;
   font-family: "DM Sans", sans-serif;
   line-height: 1.6;
   cursor: pointer;
@@ -354,7 +357,7 @@ body {
 .contact-me {
   border: 0;
   outline: none;
-  background: linear-gradient(to right, rgba(83, 200, 239, 0.8) 0%, rgba(81, 106, 204, 0.8) 96%);
+  background: linear-gradient(to right, rgba(0, 244, 216, 0.8) 0%, rgba(5, 210, 221, 0.8) 96%);
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
   color: #fff;
   padding: 12px 16px;
